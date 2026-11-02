@@ -2,7 +2,7 @@
 
 A clock that shows the time in binary-coded decimal (BCD). Each of the four columns of LEDs is one digit of HH:MM, and each column is a different color so it can be read from across the room.
 
-Board: Binary Clock REV1.1, designed by [Just Different Creations](https://justdif.com) in Lufkin, Texas. See it on the [PCB-Only Builds](https://justdif.com/pcb-only-builds/) page.
+Board: Binary Clock REV1.1, designed by [Just Different Creations](https://justdif.com) in Lufkin, Texas. See it on the [PCB Projects](https://justdif.com/pcb-projects/) page.
 
 ## How it works
 
